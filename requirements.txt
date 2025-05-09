@@ -14,10 +14,10 @@ fire==0.7.0
 wandb
 safetensors
 opencv-python
-mediapipe=0.10.21
+mediapipe==0.10.21
 pynvml
-cache=1.0.3
+cache==1.0.3
 xformers==0.0.29.post1
 colorama==0.4.6
-torchmetrics=1.6.2
+torchmetrics==1.6.2
 --extra-index-url https://download.pytorch.org/whl/cu124
