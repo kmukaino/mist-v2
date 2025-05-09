@@ -1,6 +1,6 @@
 torch==2.5.1
 torchvision==0.20.1
-diffusers
+diffusers==0.32.2
 transformers
 datasets==3.3.2
 accelerate
