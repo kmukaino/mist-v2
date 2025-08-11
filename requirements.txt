@@ -6,19 +6,19 @@ datasets==3.3.2
 accelerate==1.3.0
 gradio==5.20.1
 ftfy==6.3.1
-tensorboard
-Jinja2
-tqdm
-scipy
+tensorboard==2.18.0
+Jinja2==3.1.6
+tqdm==4.67.1
+scipy==1.15.2
 fire==0.7.0
-wandb
-safetensors
+wandb==0.19.10
+safetensors==0.5.3
 opencv-python==4.11.0.86
 mediapipe==0.10.21
-pynvml
+pynvml==12.0.0
 cache==1.0.3
 xformers==0.0.29.post1
 colorama==0.4.6
 torchmetrics==1.6.2
-
+numpy==1.26.4
 --extra-index-url https://download.pytorch.org/whl/cu124
