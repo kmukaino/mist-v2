@@ -20,5 +20,4 @@ cache==1.0.3
 xformers==0.0.29.post1
 colorama==0.4.6
 torchmetrics==1.6.2
-numpy==1.26.4
 --extra-index-url https://download.pytorch.org/whl/cu124
